@@ -1,6 +1,8 @@
 # GLT
 Conduct the General Linear Test (GLT) procedure Use GLT (NormData) With (In) R Software
 
+https://www.youtube.com/watch?v=ZEuSY_fhPTo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
